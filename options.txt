@@ -42,7 +42,7 @@ ao:true
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
 renderClouds:"fast"
-resourcePacks:["vanilla","mod_resources","file/Detail-Brush-1.6-1.20.zip","file/Pajalandia TexturePack.zip","file/§dnotandvm\u0027s§0-§bsculk§0-§bemissives!.zip","file/Simply 3D Extra\u0027s 1.20.0_1.0.0.zip","file/PixelTwemojiMC-9.zip","file/Shiny Trims v5 (Vanilla Animated).zip","file/No Bushy Leaves.zip","fabric","builtin/add_pack_finders_test","eatinganimations_compat","continuity:default","continuity:glass_pane_culling_fix","file/Eyeless Fresh Moves v3.0.1.zip"]
+resourcePacks:["vanilla","mod_resources","file/Detail-Brush-1.6-1.20.zip","file/§dnotandvm\u0027s§0-§bsculk§0-§bemissives!.zip","file/Simply 3D Extra\u0027s 1.20.0_1.0.0.zip","file/Shiny Trims v5 (Vanilla Animated).zip","fabric","builtin/add_pack_finders_test","eatinganimations_compat","continuity:default","continuity:glass_pane_culling_fix","file/Eyeless Fresh Moves v3.0.1.zip","file/Hardcore Hearts - v15.zip","file/Icons v.1.9.1§7.zip","file/Icons+Menu+(Put+Above+Icons).zip","file/Better+Lanterns+v1.2(mc-1.20.1).zip","file/Pajalandia TexturePack.zip","file/No Bushy Leaves.zip"]
 incompatibleResourcePacks:[]
 lastServer:
 lang:es_ar
@@ -121,18 +121,18 @@ key_key.hotbar.9:key.keyboard.9
 key_key.weaponmaster_ydm.opengui:key.keyboard.v
 key_key.modernfix.config:key.keyboard.unknown
 key_key.simple_zoom.zoom:key.keyboard.c
-key_iris.keybind.reload:key.keyboard.r
-key_iris.keybind.toggleShaders:key.keyboard.k
-key_iris.keybind.shaderPackSelection:key.keyboard.o
 key_key.optigui.inspect:key.keyboard.f12
 key_physicsmod.keybinding.guiphysics:key.keyboard.f6
 key_physicsmod.keybinding.physicsmenu:key.keyboard.f7
 key_physicsmod.keybinding.togglephysics:key.keyboard.unknown
 key_physicsmod.keybinding.debug:key.keyboard.unknown
 key_key.ryoamiclights.dyn_light:key.keyboard.unknown
+key_iris.keybind.reload:key.keyboard.r
+key_iris.keybind.toggleShaders:key.keyboard.k
+key_iris.keybind.shaderPackSelection:key.keyboard.o
 key_key.craftpresence.config_keycode.name:key.keyboard.right.bracket
 key_keybind.invmove.toggleMove:key.keyboard.unknown
-soundCategory_master:0.5044150110375275
+soundCategory_master:0.5033112582781457
 soundCategory_music:0.0
 soundCategory_record:0.5017605633802817
 soundCategory_weather:0.05399061032863843
